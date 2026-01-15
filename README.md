@@ -1,2 +1,2 @@
 # Practice-git
-# HTML DOC
+# HTML Basics
